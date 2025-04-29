@@ -10,7 +10,7 @@ This repository provides a comprehensive design and security framework for **cor
 ## 🛠️ Technologies Used  
 | Technology | Purpose |
 |------------|---------|
-| **Cisco IOS** | Routing & Switching |
+| **Cisco packet tracer** | Routing & Switching |
 | **Linux** | Network security policies & monitoring |
 | **CCNA Security** | Firewall & ACL configurations |
 | **Python & Bash** | Automation scripting |
