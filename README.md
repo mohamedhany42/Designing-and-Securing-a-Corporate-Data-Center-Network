@@ -10,9 +10,9 @@ This repository provides a comprehensive design and security framework for **cor
 ## 🛠️ Technologies Used  
 | Technology | Purpose |
 |------------|---------|
-| **Cisco IOS / JunOS** | Routing & Switching |
+| **Cisco IOS** | Routing & Switching |
 | **Linux** | Network security policies & monitoring |
-| **IPTables / Palo Alto / FortiGate** | Firewall & ACL configurations |
+| **CCNA Security** | Firewall & ACL configurations |
 | **Python & Bash** | Automation scripting |
 | **Wireshark & Nmap** | Traffic analysis & penetration testing |
 
