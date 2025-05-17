@@ -12,7 +12,7 @@ This repository provides a comprehensive design and security framework for **cor
 |------------|---------|
 | **Cisco packet tracer** | Routing & Switching |
 | **Linux** | Network security policies & monitoring |
-| **CCNA Security** | Firewall & ACL configurations |
+| **CCNA Security** | Firewall & ACL configurations & IPS |
 | **Python & Bash** | Automation scripting |
 | **Wireshark & Nmap** | Traffic analysis & penetration testing |
 
